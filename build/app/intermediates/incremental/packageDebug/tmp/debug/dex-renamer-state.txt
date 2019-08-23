@@ -1,0 +1,4 @@
+#Sun Aug 18 23:53:13 MST 2019
+base.0=C\:\\flutter_projects\\parking_bud\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
