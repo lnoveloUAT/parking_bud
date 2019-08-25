@@ -1,4 +1,4 @@
-#Fri Aug 23 13:58:47 MST 2019
-base.0=C\:\\flutter_projects\\parking_bud\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Aug 24 09:50:59 MST 2019
+base.0=C\:\\flutter_projects\\parking_bud_2\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
